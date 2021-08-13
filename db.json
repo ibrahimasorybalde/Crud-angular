@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "prenom": "Abdoul Salam",
+      "nom": "Soumah",
+      "email": "abdooulsalamsoumah@gmail.com",
+      "tel": "621121314",
+      "salaire": "1300000"
+    },
+    {
+      "id": 8,
+      "prenom": "Karifa",
+      "nom": "Kouyaté",
+      "email": "karifakouyate@dntch.tech",
+      "tel": "622686672",
+      "salaire": "5000000"
+    },
+    {
+      "id": 10,
+      "prenom": "Alpha Ouma",
+      "nom": "Baldé",
+      "email": "aob@gmail.com",
+      "tel": "666682144",
+      "salaire": "2000000"
+    },
+    {
+      "id": 11,
+      "prenom": "Ibrahima Sory Baîlo",
+      "nom": "Baldé",
+      "email": "ibrahimasorybalde78@gmail.com",
+      "tel": "628799300",
+      "salaire": "10000000"
+    },
+    {
+      "id": 12,
+      "prenom": "Mariama",
+      "nom": "Diaby",
+      "email": "diabymariam@gmail.com",
+      "tel": "666788400",
+      "salaire": "300000"
+    },
+    {
+      "id": 13,
+      "prenom": "Mari",
+      "nom": "Larosa",
+      "email": "mamoudoudiallo@gmail.com",
+      "tel": "666697700",
+      "salaire": "500000"
+    },
+    {
+      "id": 14,
+      "prenom": "Ibrahima Kolon ",
+      "nom": "Diallo",
+      "email": "ibrahimakolondiallo@gmail.com",
+      "tel": "666554433",
+      "salaire": "1100000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
